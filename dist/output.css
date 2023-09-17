@@ -533,3 +533,136 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.w-\[50px\] {
+  width: 50px;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.bg-yellow-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 240 138 / var(--tw-bg-opacity));
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\#EBB96E\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(235 185 110 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#e7d0ae\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(231 208 174 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#4c463d\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(76 70 61 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#423d4c\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(66 61 76 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#6d56a4\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(109 86 164 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#567ca4\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(86 124 164 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#6ea0d5\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(110 160 213 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#567699\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(86 118 153 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#3f6c9c\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(63 108 156 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#3f4e9c\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(63 78 156 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#3f679c\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(63 103 156 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#1c4a87\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(28 74 135 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#2c64ad\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(44 100 173 / var(--tw-bg-opacity));
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.opacity-60 {
+  opacity: 0.6;
+}
